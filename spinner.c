@@ -3,6 +3,7 @@
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
 
+
 static int gSizeX = 640;
 static int gSizeY = 480;
 
